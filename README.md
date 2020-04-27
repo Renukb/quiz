@@ -1,4 +1,4 @@
-# quiz
+# quizApp
 Learning Project
 
 Its a quiz play web application developed by learning from Udemy course.
